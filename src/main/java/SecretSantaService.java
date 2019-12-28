@@ -26,7 +26,7 @@ public class SecretSantaService {
 
     /**
      * A method that will write out the results of the secret santa
-     * @param name1
+     * @param name1 - name1
      * @param name2
      */
     private static void writeRecord(String name1, String name2){
